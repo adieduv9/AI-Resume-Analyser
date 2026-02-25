@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+scikit-learn
+spacy
+pdfminer.six
+plotly
+pandas
+sqlalchemy
+reportlab
+spacyst
+PyPDF2
